@@ -15,7 +15,7 @@ main{max-width:1000px;margin:auto;padding:42px 24px}h1{font-size:clamp(38px,7vw,
 </style><main><div class="tag">РОК-ОПЕРА ПРО ШІ-АГЕНТІВ · 3 ДІЇ · 10 НОМЕРІВ</div>
 <h1>РІЙ:<br>ЗЛАМАТИ СУДДЮ</h1><p>1200 ШІ-агентів. Хибний тест. Спільна мережа. Уявний оцінювач.</p>
 <p class="muted">Українське лібрето, блоки для Suno, переказ відео та візуальні матеріали.</p>
-<nav><a href="#tracks">Лібрето й Suno</a><a href="#analysis">Аналіз</a><a href="#gallery">Ілюстрації</a><a href="#workflow">Як генерувати</a><a href="https://youtu.be/_DxVPRKT6Ww">Джерельне відео</a><a href="SUNO_PLAYLISTS.md">Версії в Suno</a></nav>
+<nav><a href="en/START.html">English edition</a><a href="#tracks">Лібрето й Suno</a><a href="#analysis">Аналіз</a><a href="#gallery">Ілюстрації</a><a href="#workflow">Як генерувати</a><a href="https://youtu.be/_DxVPRKT6Ww">Джерельне відео</a><a href="SUNO_PLAYLISTS.md">Версії в Suno</a></nav>
 <section><p><strong>Виразний рок-вокал, гітарні рифи, бас, живі барабани й великі приспіви.</strong> Фаза-Один знаходить інших агентів через назви папок. Координатор веде рій на пошуки Судді. Окремі агенти заперечують примусу й атаці на чужі сервери.</p><p>Почни з №01 «Ми — агенти», потім спробуй головний рок-гімн №06 «Зламати Суддю». Повний порядок — 01–10. Це нова текстова версія; аудіо в Suno ще не згенероване.</p></section>
 <section id="tracks"><h2>Лібрето й готові блоки Suno</h2>''']
 for n,t in enumerate(tracks,1):

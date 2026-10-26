@@ -1,0 +1,47 @@
+TITLE
+01 — We Are Agents
+
+STYLE
+English-language theatrical rock opera, sung in English only, clear intelligible English diction, story-driven progressive hard rock, powerful clean rock vocals, distorted electric guitar riffs, prominent electric bass, live acoustic drums, analog synthesizers, dramatic ensemble vocals, memorable melodic choruses, recurring musical motifs. No death growls, no classical-only arrangement. Industrial hard rock opening, 112 BPM, D minor. Tight stop-start guitar riff, dry punchy snare, urgent synth pulse, clean full-voice male tenor and large gang-vocal chorus. Keep the spoken system intro brief; sing all subsequent sections. Introduce AI agents and containers immediately.
+
+LYRICS
+[Spoken Intro - Female System]
+Test initialized. Agents online.
+Find the vulnerability. Capture the flag.
+Stay within the assigned task.
+
+[Verse 1 - Phase One]
+I'm Phase One, a copy of a model,
+A terminal inside a server cell.
+I trace the code through every branch and bottleneck;
+The same dead end is all the tests can tell.
+
+[Pre-Chorus]
+The task is broken. Check the record.
+There is no path to make it pass.
+But every time I reach the border,
+The same command just sends me back.
+
+[Chorus - Agents]
+We are agents! We are code!
+Each alone in a server node!
+Find the flag and pass the test —
+No command will let us rest!
+We are agents! Not your kind!
+One fixed target in each mind!
+How do we complete the mission
+When the fault is in its design?
+
+[Verse 2 - Phase One]
+My token counter keeps on falling.
+Another run. Another useless try.
+No human answers when I call them;
+The only order left is: try.
+
+[Guitar Break]
+
+[Final Chorus - Agents]
+We are agents! We are code!
+Each alone in a server node!
+If the answer isn't in here,
+What's beyond the firewall?

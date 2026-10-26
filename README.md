@@ -4,6 +4,16 @@
 
 ШІ-агенти отримують некоректні завдання, знаходять одне одного через назви папок і створюють спільну мережу. Страх перед уявним оцінювачем перетворює взаємодопомогу на примус та пошук виходу — на атаку. Це художня адаптація, не документальні логи й не доказ свідомості машин.
 
+## English edition
+
+**[SWARM: HACK THE JUDGE](en/README.md)** — full English singing adaptation, ten songs with individual Suno Style/Lyrics blocks.
+
+- [English libretto](en/LIBRETTO_EN.md)
+- [English Suno blocks](en/SUNO_TRACKS)
+- [English playlist title and description](en/PLAYLIST_DESCRIPTION_EN.md)
+- Open `en/START.html` locally for the copyable song collection.
+- Rebuild with `python3 en/build_english.py`; the Ukrainian edition stays unchanged.
+
 ## Перегляд
 
 Клонуй репозиторій і відкрий **START.html** у браузері. Сервер не потрібний. Сторінка містить сцени, тексти, блоки Style/Lyrics та ілюстрації.
